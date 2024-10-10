@@ -32,5 +32,17 @@ h1, h2, h3, h4, h5, h6 = Marcam Diferentes níveis de títulos.
 <a hrf > =  Marca Link .
 
 
+* Form 
+
+* Form = 
+tag form e utilizada para envolver os campos de um fomulário.
+
+* Action =""
+O atributo action o arquivo /url que sera ativado ao enviarmos o formulário.
+
+*method="" 
+Post (envio de informações ) e Get (Busca de Informações ).
+
+
 
 

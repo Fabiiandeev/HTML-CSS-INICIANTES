@@ -1,0 +1,67 @@
+
+body{
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  
+}
+
+div{
+  background-color:rgb(233, 232, 229) ;
+  text-align: center;
+  border-radius: 20px;
+  
+  
+}
+
+.container{
+  padding: 50px;
+  margin: 50px;
+  align-items: center;
+  justify-content: center;
+
+
+}
+.login{
+  margin-bottom: 20px;
+}
+label{
+  display: block;
+  margin-bottom: 5px;
+  
+}
+
+input{
+  padding: 10px;
+  width: 100%;
+ font-size: 20px;
+ border: 1px solid #ccc;
+ border-radius: 5px;
+ border: none;
+box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+button{
+  font-size: 14px;
+  width: 100px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color :rgb(3, 100, 44);
+  border: 1px solid;
+  border: none;
+  cursor: pointer;
+}
+
+
+button:hover{
+  background-color: rgb(11, 143, 11);
+}
+
+.senha{
+  font-size: 12px;
+  margin-top: 10px;
+  text-align: right;
+}
